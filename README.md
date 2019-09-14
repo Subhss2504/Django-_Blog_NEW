@@ -1,1 +1,1 @@
-# Django-_Blog_NEW
+# Django_Blog_NEW
